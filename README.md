@@ -126,7 +126,7 @@ npm run dev
 ![App Preview](src/assets/register.png)
 
 ### Add List Screen
-![App Preview](src\assets\addList.png)
+![App Preview](src/assets/1.png)
 
 ### Tasks Screen
 ![App Preview](src/assets/previewLists.png)
