@@ -110,7 +110,7 @@ npm run dev
 
 ### NOTE 
 🌐 API
-This front-end connects to a RESTful API built with Node.js and Express. Make sure the server is running on the correct port (e.g., http://localhost:3000) and that the base URL is correctly configured in your Axios service.
+**This front-end connects to a RESTful API built with Node.js and Express. Make sure the server is running on the correct port (e.g., http://localhost:3000) and that the base URL is correctly configured in your Axios service.**
 
 ---
 
@@ -119,29 +119,21 @@ This front-end connects to a RESTful API built with Node.js and Express. Make su
 ### Login Screen
 ![App Preview](src/assets/preview.png)
 
+### Register Screen
+![App Preview](src/assets/register.png)
+
+### Add List Screen
+![App Preview](src/assets/addinglist.png)
+
+### Tasks Screen
+![App Preview](src/assets/previewLists.png)
+
+### Add Screen
+![App Preview](src/assets/addingtasks.png)
 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
