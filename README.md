@@ -96,7 +96,7 @@ A web platform for managing personal task lists.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/to-do-list-web.git
+git clone https://github.com/Lucas-Cunhaa/ToDo-List-WEB.git
 ```
 
 2. Install all the dependencies:
@@ -131,7 +131,7 @@ npm run dev
 ### Tasks Screen
 ![App Preview](src/assets/previewLists.png)
 
-### Add Screen
+### Add Task Screen
 ![App Preview](src/assets/addingtasks.png)
 
 
