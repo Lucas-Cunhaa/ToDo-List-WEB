@@ -3,6 +3,9 @@ A web platform for managing personal task lists.
 
 ## 📌 This is a web application designed to help users create, edit, update, and delete their to-do lists. The platform includes user authentication, allowing individuals to register and log in to securely manage their personal tasks.
 
+### App Preview
+![App Preview](src/assets/image.png)
+
 ---
 
 ## 🚀 Technologies Used
@@ -123,7 +126,7 @@ npm run dev
 ![App Preview](src/assets/register.png)
 
 ### Add List Screen
-![App Preview](src/assets/addinglist.png)
+![App Preview](src\assets\addList.png)
 
 ### Tasks Screen
 ![App Preview](src/assets/previewLists.png)
