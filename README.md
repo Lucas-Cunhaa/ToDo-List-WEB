@@ -38,6 +38,7 @@ A web platform for managing personal task lists.
 
 ## 📁 Project Structure
 
+```bash
 📦 root/
 ├── 📁 node_modules/ # Project dependencies
 ├── 📁 public/ # Static public assets (e.g. favicon, images)
@@ -63,6 +64,7 @@ A web platform for managing personal task lists.
 ├── 📄 tsconfig.json # TypeScript compiler configuration
 ├── 📄 tsconfig.node.json # TypeScript config for Node.js environment
 └── 📄 vite.config.ts # Vite build tool configuration
+```
 
 ---
 
@@ -115,7 +117,8 @@ This front-end connects to a RESTful API built with Node.js and Express. Make su
 ## 📷 Preview of the Project running
 
 ### Login Screen
-![App Preview](src\assets\preview.png)
+![App Preview](src/assets/preview.png)
+
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
